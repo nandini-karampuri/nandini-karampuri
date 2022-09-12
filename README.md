@@ -1,5 +1,5 @@
-
-<h1 align="center"> Hi there 👋, I am Nandini Karampuri</h1>
+![logo](https://github.com/nandini-karampuri/nandini-karampuri/blob/main/banner.png)
+<h1 align="center"> Hi there 👋, I'm Nandini Karampuri</h1>
 <h3 align="center"> A passionate software developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScTDj_3c-P5J5IwYVwNQLjlKJ7b0XS67uqsT449jCroeUQyaibeBj4A7SzwlA2RFno3qo&usqp=CAU">
